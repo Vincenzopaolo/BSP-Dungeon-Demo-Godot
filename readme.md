@@ -106,7 +106,7 @@ Provides the signal `connectRooms(a: Vector2i, b: Vector2i)` for linking room ce
 
 ---
 
-### Main.gd
+### Generator.gd
 
 Handles dungeon generation, map initialization, and rendering to the `TileMapLayer`.
 

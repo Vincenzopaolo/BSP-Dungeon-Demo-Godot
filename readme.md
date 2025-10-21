@@ -16,7 +16,7 @@ This project demonstrates the creation of interconnected rooms using **Binary Sp
 	- [Room.gd](#roomgd)
 	- [Leaf.gd](#leafgd)
 	- [MessageBus.gd](#messagebusgd)
-	- [Main.gd](#maingd)
+	- [Generator.gd](#generatorgd)
 4. [How It Works](#how-it-works)
 5. [Usage](#usage)
 6. [Notes](#notes)
